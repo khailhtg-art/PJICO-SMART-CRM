@@ -1,0 +1,7 @@
+{
+  "name": "PJICO Smart Insurance CRM",
+  "description": "CRM for insurance agents to manage customers, scan certificates with AI, and track renewals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
